@@ -1,0 +1,28 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.buildlog/
+.dartdeps
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+build/
+coverage/
+
+# IntelliJ related
+*.iml
+.idea/
+
+# VS Code
+.vscode/
+
+# Flutter generated
+android/
+ios/
+web/
+windows/
+macos/
+linux/
+
+# Environment files
+.env
